@@ -1,0 +1,9 @@
+[submodule "bigorder-backend"]
+	path = bigorder-backend
+	url = git@github.com:InsightView/bigorder-backend.git
+[submodule "bigorder"]
+	path = bigorder
+	url = git@github.com:InsightView/bigorder.git
+[submodule "bigorder-frontend"]
+	path = bigorder-frontend
+	url = git@github.com:InsightView/bigorder-frontend.git
