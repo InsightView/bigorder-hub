@@ -1,2 +1,2 @@
 # bigorder-hub
-hub for big order
+hub for bigorder
