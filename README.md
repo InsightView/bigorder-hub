@@ -1,5 +1,5 @@
 # bigorder-hub
-hub for big order
+hub for bigorder
 
 ## Init your project on local
 ```
@@ -10,7 +10,10 @@ git submodule update --init --recursive
 git submodule update --recursive --remote
 ```
 
+## tech stack
++ Golang with Gin
++ Mongodb - mongo-go-driver | mongoose
 
 ### ref
 1. https://hub.docker.com/_/mongo-express
-2. 
+2. https://graphql.org/learn/
