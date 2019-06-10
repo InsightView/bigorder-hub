@@ -13,6 +13,7 @@ git submodule update --recursive --remote
 ## tech stack
 + Golang with Gin
 + Mongodb - mongo-go-driver | mongoose
++ mock.js - random data
 
 ### ref
 1. https://hub.docker.com/_/mongo-express
